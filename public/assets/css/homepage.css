@@ -1,0 +1,26 @@
+body {
+    font-family: 'Sarabun', sans-serif !important;
+}
+
+
+/* Rating Star */
+.rate-base-layer {
+    color: #aaa;
+}
+
+.rate-hover-layer {
+    color: orange;
+}
+
+.rate2 {
+    font-size: 35px;
+}
+
+.rate2 .rate-hover-layer {
+    color: gold;
+    cursor: pointer;
+}
+
+.rate2 .rate-select-layer {
+    color: gold;
+}
